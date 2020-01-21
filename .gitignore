@@ -1,0 +1,8 @@
+.sass-cache
+.sass-cache/*
+css/*.map
+
+.ftpconfig
+.ftpignore
+
+.DS_Store
