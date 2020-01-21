@@ -1,2 +1,2 @@
 # elm-analog-time
-An analaog clock using elm/time and elm/svg.
+An analog clock using elm/time and elm/svg.
